@@ -1,0 +1,69 @@
+PODS:
+  - Alamofire (4.5.1)
+  - Closures (0.3)
+  - Differentiator (3.0.1)
+  - DZNEmptyDataSet (1.8.1)
+  - IQKeyboardManagerSwift (5.0.6)
+  - Kingfisher (4.2.0)
+  - MGSwipeTableCell (1.6.1)
+  - MJRefresh (3.1.15)
+  - ObjectMapper (3.0.0)
+  - pop (1.0.10)
+  - RxCocoa (4.0.0):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.0.1):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.0.0)
+  - SnapKit (4.0.0)
+  - SVProgressHUD (2.2.2)
+  - SwiftDate (4.4.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - Closures
+  - DZNEmptyDataSet
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 4.0)
+  - MGSwipeTableCell
+  - MJRefresh
+  - ObjectMapper (~> 3.0)
+  - pop (from `https://github.com/facebook/pop.git`)
+  - RxCocoa (~> 4.0)
+  - RxDataSources (~> 3.0)
+  - RxSwift (~> 4.0)
+  - SnapKit (~> 4.0.0)
+  - SVProgressHUD
+  - SwiftDate (~> 4.0)
+
+EXTERNAL SOURCES:
+  pop:
+    :git: https://github.com/facebook/pop.git
+
+CHECKOUT OPTIONS:
+  pop:
+    :commit: 2a9440a3ded796625f088a861b6401e63e93f1b6
+    :git: https://github.com/facebook/pop.git
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  Closures: 8962b9c2157fc29a0e88d897c1dc19e50bf83f6f
+  Differentiator: ffe513ce1ea4e7198b89fac94d6e281c673055a9
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  IQKeyboardManagerSwift: 02bfbb0dff71c66d0ab77d80d25dfce0c3717735
+  Kingfisher: 9ee7e788d8ba07c3f21ce0d43f33cec310a4f781
+  MGSwipeTableCell: 19a1d65dcc1ceaea42eb44bb2adae32101904514
+  MJRefresh: 9af70f5f9327a2cf87f0fb5929f35fcc2fa638ea
+  ObjectMapper: 92230db59bf8f341a5c3a3cf0b9fbdde3cf0d87f
+  pop: 82ca6b068ce9278fd350fd9dd09482a0ce9492e6
+  RxCocoa: d62846ca96495d862fa4c59ea7d87e5031d7340e
+  RxDataSources: 098b7e62b6316313b14d6bf594e3f4f4f62a238a
+  RxSwift: fd680d75283beb5e2559486f3c0ff852f0d35334
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+  SwiftDate: 131cf2f09b390f0a07f0099e36005ffe2fbf4c7e
+
+PODFILE CHECKSUM: 33ca4a465f2cc953835aad5ea8118d5f47ac1040
+
+COCOAPODS: 1.3.1
